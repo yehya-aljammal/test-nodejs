@@ -15,3 +15,7 @@ npm start
 1. git add .
 2. git commit -m "commitName"
 3. git push heroku master
+
+### open heroku server
+
+1. heroku open
