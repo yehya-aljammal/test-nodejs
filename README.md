@@ -8,7 +8,7 @@ npm start
 
 1. git add .
 2. git commit -m "commitName"
-3. git push origin master
+3. git push github master
 
 ### push to heroku server
 
